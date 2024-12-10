@@ -124,8 +124,7 @@
                 ]
             },
             "properties": {
-                "name": "Actual-01",
-                "id": "Actual",
+                "id": "Actual-01",
                 "styleUrl": "#__managed_style_037B760AF134A49F5D8A",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
@@ -586,8 +585,7 @@
                 ]
             },
             "properties": {
-                "id": "Actual",
-                "name": "Actual-02",
+                "id": "Actual-02",
                 "styleUrl": "#__managed_style_037B760AF134A49F5D8A",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
@@ -944,8 +942,7 @@
                 ]
             },
             "properties": {
-                "id": "Actual",
-                "name": "Actual-03",
+                "id": "Actual-03",
                 "styleUrl": "#__managed_style_037B760AF134A49F5D8A",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
@@ -1002,8 +999,7 @@
                 ]
             },
             "properties": {
-                "id": "Actual",
-                "name": "Actual-04",
+                "id": "Actual-04",
                 "styleUrl": "#__managed_style_037B760AF134A49F5D8A",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
@@ -1135,8 +1131,7 @@
                 ]
             },
             "properties": {
-                "id": "Actual",
-                "name": "Actual-05",
+                "id": "Actual-05",
                 "styleUrl": "#__managed_style_037B760AF134A49F5D8A",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
@@ -1278,8 +1273,7 @@
                 ]
             },
             "properties": {
-                "id": "Planned",
-                "name": "Planned-01",
+                "id": "Planned-01",
                 "styleUrl": "#__managed_style_01823E42A334A49A877C",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
@@ -1736,8 +1730,7 @@
                 ]
             },
             "properties": {
-                "id": "Planned",
-                "name": "Planned-02",
+                "id": "Planned-02",
                 "styleUrl": "#__managed_style_01823E42A334A49A877C",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
@@ -2094,8 +2087,7 @@
                 ]
             },
             "properties": {
-                "id": "Planned",
-                "name": "Planned-03",
+                "id": "Planned-03",
                 "styleUrl": "#__managed_style_01823E42A334A49A877C",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
@@ -2292,8 +2284,7 @@
                 ]
             },
             "properties": {
-                "id": "Planned",
-                "name": "Planned-04",
+                "id": "Planned-04",
                 "styleUrl": "#__managed_style_01823E42A334A49A877C",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
@@ -2435,8 +2426,7 @@
                 ]
             },
             "properties": {
-                "name": "Sweep-01",
-                "id": "Sweep",
+                "id": "Sweep-01",
                 "styleUrl": "#__managed_style_037B760AF134A49F5D8A",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
@@ -2897,8 +2887,7 @@
                 ]
             },
             "properties": {
-                "id": "Sweep",
-                "name": "Sweep-02",
+                "id": "Sweep-02",
                 "styleUrl": "#__managed_style_037B760AF134A49F5D8A",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
@@ -3255,8 +3244,7 @@
                 ]
             },
             "properties": {
-                "id": "Sweep",
-                "name": "Sweep-03",
+                "id": "Sweep-03",
                 "styleUrl": "#__managed_style_037B760AF134A49F5D8A",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
@@ -3313,8 +3301,7 @@
                 ]
             },
             "properties": {
-                "id": "Sweep",
-                "name": "Sweep-04",
+                "id": "Sweep-04",
                 "styleUrl": "#__managed_style_037B760AF134A49F5D8A",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
@@ -3446,8 +3433,7 @@
                 ]
             },
             "properties": {
-                "id": "Sweep",
-                "name": "Sweep-05",
+                "id": "Sweep-05",
                 "styleUrl": "#__managed_style_037B760AF134A49F5D8A",
                 "fill-opacity": 0.25098039215686274,
                 "fill": "#ffffff",
